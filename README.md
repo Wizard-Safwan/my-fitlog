@@ -7,13 +7,13 @@ FitLog is a dark, no-nonsense workout library and fitness planner built for peop
 
 ## 🛠️ Technologies Used
 
-- **Next.js** — React framework for the application
-- **React** — Component-based UI development
-- **TypeScript** — Type-safe development
-- **Tailwind CSS** — Responsive styling
-- **DaisyUI** — UI components
-- **React Icons** — Interface icons
-- **React Toastify** — Toast notifications
+- **Next.js** 
+- **React** 
+- **TypeScript** 
+- **Tailwind CSS** 
+- **DaisyUI** 
+- **React Icons** 
+- **React Toastify** 
 
 ## ✨ Key Features
 
