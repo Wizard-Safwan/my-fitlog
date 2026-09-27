@@ -36,4 +36,4 @@ FitLog works responsive on:
 
 ## 🔗 Live Demo
 
-[**Open FitLog**]()
+[**Open FitLog**](https://my-fitlog-six.vercel.app/)
